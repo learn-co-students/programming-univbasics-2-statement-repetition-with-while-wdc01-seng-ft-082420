@@ -1,1 +1,8 @@
-# Write your code here
+# Count 10-1 
+#say "Happy New Year!" at the end 
+count = 10
+while count >= 1 do
+  puts count
+  count -= 1
+end 
+puts "Happy New Year!"
